@@ -1,0 +1,15 @@
+{
+  "name": "taller-ieee",
+  "version": "1.0.0",
+  "description": "este es una pagina para ieee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "stormpyro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
